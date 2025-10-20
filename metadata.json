@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de App Multiplataforma",
+  "description": "Uma ferramenta de IA para gerar o código inicial para aplicativos Windows, Android e iOS com base em suas ideias. Descreva seu aplicativo e receba o código-fonte em segundos.",
+  "requestFramePermissions": []
+}
